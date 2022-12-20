@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://docs.solana.lido.fi/blog</id>
+    <id>https://lidofinance.github.io/solana-docs-preview/blog</id>
     <title>Lido on Solana Blog</title>
     <updated>2021-05-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://docs.solana.lido.fi/blog"/>
+    <link rel="alternate" href="https://lidofinance.github.io/solana-docs-preview/blog"/>
     <subtitle>Lido on Solana Blog</subtitle>
-    <icon>https://docs.solana.lido.fi/img/stSOL.svg</icon>
+    <icon>https://lidofinance.github.io/solana-docs-preview/img/stSOL.svg</icon>
     <entry>
         <title type="html"><![CDATA[test blog post]]></title>
         <id>test</id>
-        <link href="https://docs.solana.lido.fi/blog/test"/>
+        <link href="https://lidofinance.github.io/solana-docs-preview/blog/test"/>
         <updated>2021-05-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
         <content type="html"><![CDATA[<p>Blog features are powered by the blog plugin. Simply add files to the <code>blog</code> directory. It supports tags as well!</p><p>Delete the whole directory if you don't want the blog features. As simple as that!</p>]]></content>
