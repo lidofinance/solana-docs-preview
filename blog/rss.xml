@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Lido on Solana Blog</title>
-        <link>https://docs.solana.lido.fi/blog</link>
+        <link>https://docs.solana.lido.fi/solana-docs-preview/blog</link>
         <description>Lido on Solana Blog</description>
         <lastBuildDate>Thu, 20 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[test blog post]]></title>
-            <link>https://docs.solana.lido.fi/blog/test</link>
+            <link>https://docs.solana.lido.fi/solana-docs-preview/blog/test</link>
             <guid>test</guid>
             <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
